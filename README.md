@@ -35,4 +35,6 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 ![](https://github-profile-trophy.vercel.app/?username=omerFarukCelikRep&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omerFarukCelikRep&icon=5&color=1)](https://visitcount.itsvg.in)
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B97A63&height=110&section=footer&animation=twinkling"/>
+</p>
