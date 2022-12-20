@@ -1,6 +1,5 @@
 # Hi, I'm Ömer Faruk ÇELİK :computer:
 ![](https://komarev.com/ghpvc/?username=omerFarukCelikRep)
-[![](https://visitcount.itsvg.in/api?id=omerFarukCelikRep&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edorado93)
