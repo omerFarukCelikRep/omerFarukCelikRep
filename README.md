@@ -1,10 +1,6 @@
 # Hi, I'm Ömer Faruk ÇELİK :computer:
 ![](https://komarev.com/ghpvc/?username=omerFarukCelikRep)
 
-## 🌐 Socials:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edorado93)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@ofarukcelik)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+.Net+Developer)](https://git.io/typing-svg)
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
@@ -16,6 +12,10 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 👯 I’m looking to collaborate on open source projects<br>
 💬 Ask me about **C#, .Net, Javascript, HTML, CSS, React**<br>
 📫 [Reach Me](mailto:farukcelik2534@gmail.com)
+
+## 🌐 Socials:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edorado93)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@ofarukcelik)
 
 <!--
 ## 🚀 Latest Blog Posts
