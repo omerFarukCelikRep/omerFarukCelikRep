@@ -6,7 +6,7 @@
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
 
-🖥️ Recently working at BilgeAdam Technology as a .Net Developer.<br>
+🖥️ Recently working at Magiclick Digital as a .Net Developer.<br>
 🌱 I’m currently learning ⚛️React<br>
 😄 Pronouns: He/him<br>
 👯 I’m looking to collaborate on open source projects<br>
